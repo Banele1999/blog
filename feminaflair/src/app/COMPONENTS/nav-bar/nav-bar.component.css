@@ -1,3 +1,27 @@
-*{
-  font-family: "Times New Roman", Times, serif;
+.form-control {
+  border-color: var(--bs-blush);
+}
+
+a {
+  color: var(--bs-blush);
+}
+
+i {
+  color: var(--bs-blush);
+}
+
+button:hover {
+  color: var(--bs-blush);
+}
+
+#button-addon2{
+  border: none;
+}
+
+.search{
+  padding-right: 10px;
+}
+
+.tabs{
+  padding-right: 10px;
 }

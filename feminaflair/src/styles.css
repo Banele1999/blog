@@ -1,4 +1,28 @@
 /* You can add global styles to this file, and also import other style files */
+:root,
+[data-bs-theme=light] {
+  --bs-blush: #d6c9be;
+  --bs-grey: #a49f97;
+  --bs-richbrown: #62371d;
+  --bs-white: #f2f2eb;
+  --bs-midbrown: #7e5535;
+  --bs-darkbrown: #382818;
+  --bs-lowbrown: #8b6a50;
+  --bs-olive: #63664c;
+  --bs-washedgrey: #cbccc3;
+}
+
+
+
+
+
+
 .selector-for-some-widget {
     box-sizing: content-box;
   }
+
+  *{
+    font-family: "Times New Roman", Times, serif;
+    background-color: var(--bs-white);
+  }
+  

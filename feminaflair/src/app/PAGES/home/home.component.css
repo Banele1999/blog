@@ -1,4 +1,35 @@
-.container__articles{
+
+
+
+.card-img-top{
+  height: 230px;
+}
+
+.grid {
+  padding: 25px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .container__articles{
     margin-top: 30px;
   
     @media(min-width: 700px) {
@@ -6,5 +37,5 @@
       flex-direction: row;
       justify-content: center;
     }
-  }
+  } */
   
