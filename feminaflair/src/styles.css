@@ -26,3 +26,7 @@
     background-color: var(--bs-white);
   }
   
+  .btn{
+    border-radius: 0%;
+    color: black;
+  }

@@ -1,5 +1,15 @@
 
+.read-more{
+  padding-top: 30px;
+}
 
+#views {
+  color: var(--bs-lowbrown);
+}
+#heart {
+  padding-left: 200px;
+  color: pink;
+}
 
 .card-img-top{
   height: 230px;
@@ -8,6 +18,11 @@
 .grid {
   padding: 25px 0px;
 }
+
+.card {
+  height: 500px;
+}
+
 
 
 
